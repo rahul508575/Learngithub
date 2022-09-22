@@ -1,3 +1,4 @@
-let a = 10;
-let b = 20;
-sum = a+b;
+function add(a,b){
+    console.log(a+b);
+}
+add(2,3);
